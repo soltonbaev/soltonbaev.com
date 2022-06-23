@@ -1,3 +1,7 @@
+---
+title: About me
+---
+
 # About me
 
 ![Ибраим Солтонбаев](https://soltonbaev.com/wp-content/uploads/2019/08/20190728_135422-150x150.jpg)
