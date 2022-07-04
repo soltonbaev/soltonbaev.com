@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1656937787,
-    'checksum' => '10b96a03e9035be5f5cb1f55907e6931',
+    'timestamp' => 1655993900,
+    'checksum' => 'a63f653bd0c73ad1ca3b927bb1ccc38b',
     'files' => [
         'user/config' => [
             'media' => [
@@ -15,15 +15,11 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1656937668
+                'modified' => 1655260838
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
                 'modified' => 1655987946
-            ],
-            'themes/quark' => [
-                'file' => 'user/config/themes/quark.yaml',
-                'modified' => 1656937787
             ],
             'versions' => [
                 'file' => 'user/config/versions.yaml',
@@ -116,17 +112,6 @@ return [
                 'spectre' => [
                     'exp' => false,
                     'icons' => false
-                ],
-                'custom_logo' => [
-                    'user/themes/quark/images/logo/soltonbaev-logo-transparent.png' => [
-                        'name' => 'soltonbaev-logo-transparent.png',
-                        'type' => 'image/png',
-                        'size' => 7706,
-                        'path' => 'user/themes/quark/images/logo/soltonbaev-logo-transparent.png'
-                    ]
-                ],
-                'custom_logo_mobile' => [
-                    
                 ]
             ]
         ],
@@ -3786,11 +3771,11 @@ node_modules'
             'salt' => '9M8TYkNZeEf3nD'
         ],
         'site' => [
-            'title' => 'soltonbaev.com - Ibraim Soltonbaev\'s personal web-site',
+            'title' => 'Grav',
             'default_lang' => 'en',
             'author' => [
-                'name' => 'Ibraim Soltonbaev',
-                'email' => 'contact@soltonbaev.com'
+                'name' => 'Joe Bloggs',
+                'email' => 'joe@example.com'
             ],
             'taxonomies' => [
                 0 => 'category',
