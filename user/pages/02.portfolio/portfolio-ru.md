@@ -2,7 +2,7 @@
 
 Логотип для онлайн магазина «Атлантика».
 
-![](3.HARNESS/CRAFT/CODE/PROJECTS/SOLTONBAEV.COM/pages/assets/Logo-2.png)
+![](ru-atlantika-logo.png)
 
 Здесь надо было показать что товары прибывают из США. В результате было решено использовать пакет для шопинга с американским флагом.
 
@@ -10,7 +10,7 @@
 
 Логотип для Imperial Distribution Services Group, Inc.
 
-![](3.HARNESS/CRAFT/CODE/PROJECTS/SOLTONBAEV.COM/pages/assets/IDSG-LOGO-2-300x87.jpg)
+![](en-idsg-logo.jpg)
 
 [https://idsggroup.com/](https://idsggroup.com/)  
 Компания по оптовой продажи товаров для пищевой индустрии. Цвет и стиль логотипа отражает содержащийся в названии термин Imperial.
@@ -19,7 +19,7 @@
 
 Логотип и визитная карточка для Aima Travel.
 
-![](3.HARNESS/CRAFT/CODE/PROJECTS/SOLTONBAEV.COM/pages/assets/Aima-travel-logo-250x100-3-150x150.jpg)
+![](Aima-travel-icon.jpg)
 
 Клиентка пожелала использовать элемент зеленого цвета в дизайне. Поскольку в названии присутствует имя клиентки, было решено использовать элегантный рукописный шрифт зеленого цвета. Корабль отражает суть предоставления услуг бизнеса.
 
