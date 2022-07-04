@@ -1,3 +1,6 @@
+---
+template: item
+---
 # How to verify your InterServer domain with Google Search Console using TXT record
 
 Google Search Console is a great tool to track any web-site issues and organic traffic. When adding new property to Google Search Console (by method that includes any protocol and all of the subdomains) you are greeted with this message:

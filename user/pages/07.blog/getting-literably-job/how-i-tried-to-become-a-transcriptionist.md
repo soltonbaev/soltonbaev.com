@@ -1,3 +1,7 @@
+---
+template: item
+---
+
 # How I tried to become a transcriptionist for Literably
 
 Since the beginning of this year, I've decided to try and supplement my income with some remote work on the Internet. I wasn't sure what I would be doing and as the matter of fact I'm still figuring it out. But since then I've tried and learned quite a few things that I hope to share with you here in the form of these articles.
