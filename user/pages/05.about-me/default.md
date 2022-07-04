@@ -1,5 +1,6 @@
 ---
 title: About me
+menu: About me
 ---
 
 # About me
