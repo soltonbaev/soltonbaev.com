@@ -3,29 +3,22 @@ title: Homepage Highlights
 menu: Highlights
 class: offset-box
 features:
-	- header: Crazy Fast
-	  text: "Performance is not just an afterthought, we baked it in from the start!"
+	- header: Flexibility
+	  text: "From small tasks to larger projects, I can help you achieve your IT goals"
 	  icon: fa fa-fighter-jet
-    - header: Easy to build
-      text: "Simple text files means Grav is trivial to install, and easy to maintain"
+    - header: Affordability
+      text: "My services are competitevly priced"
       icon: fa fa-database
-    - header: Awesome Technology
-      text: "Grav employs best-in-class technologies such as Twig, Markdown &amp; Yaml"
+    - header: Versatility
+      text: "Coding a page, customizing a theme, making a logo or creating a promo - you got it"
       icon: fa fa-cubes
-    - header: Super Flexible
-      text: "From the ground up, with many plugin hooks, Grav is extremely extensible"
+    - header: Reliability
+      text: "I will be there with you until the problem is solved"
       icon: fa fa-object-ungroup
-    - header: Abundant Plugins
-      text: "A vibrant developer community means 200+ plugins available to download"
-      icon: fa fa-puzzle-piece
-    - header: Free / Open Source
-      text: "Grav is an open source project, so you can spend your money on other stuff"
-      icon: fa fa-money
-           
     
 ---
 
-# Why Grav?
-## **build sites better**
+# Hire me
+## **here is why:**
 
 We believe the best recipe to make something great, is to bake with [quality ingredients](#features) and add dollops of [cool stuff](#features). 

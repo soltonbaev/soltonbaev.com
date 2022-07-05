@@ -5,12 +5,7 @@ hero_classes: parallax text-light
 hero_image: laptop-table-cover.jpg
 ---
 
-# My name am Ibraim
+# My name is Ibraim
 ## I build, play and solve stuff
 
-[Let's be friends](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
-
-
-
-
-
+[Let's be friends](http://soltonbaev.com/about-me)
