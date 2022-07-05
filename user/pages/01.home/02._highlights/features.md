@@ -15,10 +15,10 @@ features:
     - header: Reliability
       text: "I will be there with you until the problem is solved"
       icon: fa fa-object-ungroup
-    
 ---
 
 # Hire me
-## **here is why:**
+## **here is why...**
 
-We believe the best recipe to make something great, is to bake with [quality ingredients](#features) and add dollops of [cool stuff](#features). 
+Have a web-store that you want to customize or a web-site you want to refresh?
+I can help
