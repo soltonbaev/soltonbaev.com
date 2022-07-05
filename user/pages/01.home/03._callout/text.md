@@ -4,6 +4,6 @@ menu: Easy Content
 image_align: right
 ---
 
-## ...or checkout my content
+## Checkout my content
 
-I write stuff about tech and markets here, also answer questions on Quora. I also make electronic music.
+I write stuff about tech and markets here, also answer questions on Quora.
