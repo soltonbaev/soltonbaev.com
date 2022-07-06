@@ -44,3 +44,16 @@ margin-left:auto;
  .container.grid-lg span {
     background-color:rgba(0, 0, 0, 0.532);
  }
+
+
+/* change button styling */
+
+a:visited {
+    color: #149d00;
+  }
+
+btn, .button {
+
+    color: #387847;
+    border: .05rem solid #387847;
+  }
