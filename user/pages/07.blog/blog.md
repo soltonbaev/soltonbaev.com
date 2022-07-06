@@ -1,6 +1,6 @@
 ---
 title: soltonbaev.com - Blog
-menu: MARKETS
+menu: BLOG
 content:
     items: '@self.children'
 ---
