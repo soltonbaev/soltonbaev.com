@@ -1,0 +1,11 @@
+.dropmenu ul li a.active, 
+.dropmenu ul li a:focus, 
+.dropmenu ul li a:hover {
+  color: green !important;
+}
+
+.treemenu li a.active,
+.treemenu li a:focus,
+.treemenu li a:hover {
+  color: green!important;
+}
