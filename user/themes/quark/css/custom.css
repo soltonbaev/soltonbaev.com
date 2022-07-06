@@ -12,3 +12,8 @@
 
 h1 {
     color: #387847;
+}
+
+ .modular-features .feature-icon h6 a:hover {
+    color: #387847;
+ }
