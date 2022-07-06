@@ -10,9 +10,11 @@
   color: rgb(58, 142, 58)!important;
 }
 
+/* set gradient colors for h1s*/
+
 h1 {
     background-color: #387847;
-    background-image: linear-gradient(45deg, #387847, #0bc10b);
+    background-image: linear-gradient(45deg, #21472a, #0bc10b);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -26,16 +28,19 @@ h1 {
 color: #387847;*/
 }
 
+/* change color of titles in features */
  .modular-features .feature-icon h6 a:hover {
     color: #387847;
  }
 
+ /* center images in columns */
  .column img {
 display:block;
 margin-right:auto;
 margin-left:auto;
  }
 
+ /* create higlights for a home page greetings message*/
  .container.grid-lg span {
     background-color:rgba(0, 0, 0, 0.532);
  }
