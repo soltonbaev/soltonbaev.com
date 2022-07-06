@@ -11,7 +11,10 @@
 }
 
 h1 {
-    color: #387847;
+    background: -webkit-linear-gradient(rgb(2, 158, 59), #387847;);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+/*color: #387847;*/
 }
 
  .modular-features .feature-icon h6 a:hover {
