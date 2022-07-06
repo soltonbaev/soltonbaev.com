@@ -16,10 +16,11 @@
         <div class="card-image">
             <a href="{{ page.url }}">{{ image.cropZoom(800,400).html|raw }}</a>
         </div>
+        {% endif %}
         <div class="card-title">
             {% include 'partials/blog/title.html.twig' with {title_level: 'h5'} %}
             </div>
-            {% endif %}
+            
     </div>
 
     <div class="card-footer">
