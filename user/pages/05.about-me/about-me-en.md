@@ -1,6 +1,7 @@
 ---
 title: About me
 menu: About me
+template: hero
 hero_classes: parallax text-light
 hero_image: about-me.jpg
 ---
