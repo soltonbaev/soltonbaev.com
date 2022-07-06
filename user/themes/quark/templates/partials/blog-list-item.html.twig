@@ -16,12 +16,12 @@
             {{ page.content|raw }}
         {% endif %}
     </div>
-            <div class="card-title">
-        {% include 'partials/blog/title.html.twig' with {title_level: 'h5'} %}
-        </div>
-    </div>
     <div class="card-footer">
         {% include 'partials/blog/taxonomy.html.twig' %}
     </div>
+                <div class="card-title">
+        {% include 'partials/blog/title.html.twig' with {title_level: 'h5'} %}
+        </div>
+
 </div>
 
