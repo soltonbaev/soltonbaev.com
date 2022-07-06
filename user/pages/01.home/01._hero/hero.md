@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 menu: Top
-hero_classes: parallax text-dark
+hero_classes: parallax text-light
 hero_image: laptop-table-cover.jpg
 ---
 <h1><span> Hi, </span></h1>
