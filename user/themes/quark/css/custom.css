@@ -62,6 +62,6 @@ a:visited {
     font-weight: normal!important;
   }
 
-  mobile-menu .button_container span {
-    color: white;
+  .mobile-menu .button_container span {
+    color: #387847;
   }
