@@ -1,5 +1,5 @@
 ---
-title: Music
+title: soltonbaev.com - Music
 menu: MUSIC
 ---
 

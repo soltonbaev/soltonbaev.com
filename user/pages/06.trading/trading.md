@@ -1,4 +1,4 @@
 ---
-title: Markets
+title: soltonbaev.com - Markets
 menu: MARKETS
 ---
