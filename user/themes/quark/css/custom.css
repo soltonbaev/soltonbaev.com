@@ -17,3 +17,9 @@ h1 {
  .modular-features .feature-icon h6 a:hover {
     color: #387847;
  }
+
+ .column img {
+display:block;
+margin-right:auto;
+margin-left:auto;
+ }
