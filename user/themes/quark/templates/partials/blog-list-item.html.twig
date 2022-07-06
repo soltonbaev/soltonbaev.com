@@ -11,18 +11,19 @@
         {% else %}
             {{ page.content|raw }}
         {% endif %}
-    </div>
-     {% set image = page.media.images|first %}
-    {% if image %}
-    <div class="card-image">
-        <a href="{{ page.url }}">{{ image.cropZoom(800,400).html|raw }}</a>
+        {% set image = page.media.images|first %}
+        {% if image %}
+        <div class="card-image">
+            <a href="{{ page.url }}">{{ image.cropZoom(800,400).html|raw }}</a>
+        </div>
+        <div class="card-title">
+            {% include 'partials/blog/title.html.twig' with {title_level: 'h5'} %}
+            </div>
     </div>
     {% endif %}
     <div class="card-footer">
         {% include 'partials/blog/taxonomy.html.twig' %}
     </div>
-            <div class="card-title">
-        {% include 'partials/blog/title.html.twig' with {title_level: 'h5'} %}
-        </div>
+
 </div>
 
