@@ -58,6 +58,6 @@ a:visited {
     border: .05rem solid #387847;
   }
 
-  .dekstop-menu li {
-    font-weight: normal;
+  .dekstop-menu .dropmenu ul li {
+    font-weight: normal!important;
   }
