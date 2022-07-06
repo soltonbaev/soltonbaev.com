@@ -61,3 +61,7 @@ a:visited {
   .desktop-menu .dropmenu ul li {
     font-weight: normal!important;
   }
+
+  mobile-menu .button_container span {
+    color: white;
+  }
