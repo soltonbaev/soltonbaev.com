@@ -41,7 +41,7 @@ margin-left:auto;
  }
 
  /* create higlights for a home page greetings message*/
- .container.grid-lg span {
+ .is-homepage .container.grid-lg span {
     background-color:rgba(0, 0, 0, 0.532);
  }
 
