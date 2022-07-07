@@ -1,8 +1,11 @@
+/*change colors of the menu items on dekstop */
 .dropmenu ul li a.active, 
 .dropmenu ul li a:focus, 
 .dropmenu ul li a:hover {
   color: rgb(69, 140, 69) !important;
 }
+
+/*change colors of the menu items on mobile */
 
 .treemenu li a.active,
 .treemenu li a:focus,
@@ -54,17 +57,22 @@ a:visited {
   }
 
 .btn, .button {
+color: #387847;
+border: .05rem solid #387847;
+}
 
-    color: #387847;
-    border: .05rem solid #387847;
-  }
+/*change boldness of the menu itmes*/
+.desktop-menu .dropmenu ul li {
+font-weight: normal!important;
+}
 
-  .desktop-menu .dropmenu ul li {
-    font-weight: normal!important;
-  }
+/*change color of the mobile mene hamburger button*/
 
-  .mobile-menu .button_container span {
-    background-color: #387847;
-  }
+.mobile-menu .button_container span {
+background-color: #387847;
+}
 
- 
+/*add bottom padding to the blog image card*/
+.card .card-image {
+padding-bottom: .8rem;
+}

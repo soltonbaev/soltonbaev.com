@@ -1,7 +1,6 @@
 ---
-title: soltonbaev.com - About me
-menu: ABOUT ME
-image_align: right
+title: About me
+menu: About me
 ---
 
 # About me
