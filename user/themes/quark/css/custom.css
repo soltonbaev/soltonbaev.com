@@ -65,3 +65,7 @@ a:visited {
   .mobile-menu .button_container span {
     background-color: #387847;
   }
+
+  .my-name-is {
+    color: white!important;
+  }
