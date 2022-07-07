@@ -45,6 +45,10 @@ margin-left:auto;
     background-color:rgba(0, 0, 0, 0.532);
  }
 
+ .is-homepage .container.grid-lg span .my-name-is {
+    color: white!important;
+  }
+
 
 /* change button styling */
 
@@ -66,6 +70,4 @@ a:visited {
     background-color: #387847;
   }
 
-  .my-name-is {
-    color: white!important;
-  }
+ 
