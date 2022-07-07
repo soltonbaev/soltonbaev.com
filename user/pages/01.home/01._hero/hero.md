@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: Home
 menu: Top
 hero_classes: parallax text-light
 hero_image: laptop-table-cover.jpg
