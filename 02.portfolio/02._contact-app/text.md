@@ -1,7 +1,7 @@
 ---
 title: Homepage Text Callout
 menu: Easy Content
-image_align: right
+image_align: left
 ---
 
-## [Native JS Contact app](https://soltonbaev.com/projects/native-js-contact-app)
+## [Native JS Contact app](https://soltonbaev.com/projects/contacts-web-app)
