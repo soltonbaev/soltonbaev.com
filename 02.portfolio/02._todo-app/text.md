@@ -12,4 +12,6 @@ Todo app with multiple todos:
 - Browser Local Storage
 - HTML & CSSs
 
-### [Launch App](https://soltonbaev.com/projects/native-js-todo-app)
+#### [Launch App](https://soltonbaev.com/projects/native-js-todo-app)
+
+[github repo](https://github.com/soltonbaev/native-js-todo-app)
