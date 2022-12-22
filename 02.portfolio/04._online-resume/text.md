@@ -1,7 +1,7 @@
 ---
 title: Homepage Text Callout
 menu: Easy Content
-image_align: left
+image_align: right
 ---
 
 ## Online Resume
