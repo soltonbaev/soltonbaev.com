@@ -1,6 +1,6 @@
 ---
-title: Homepage Text Callout
-menu: Easy Content
+title: PORTFOLIO
+menu: PORTFOLIO
 ---
 
 # Portfolio
