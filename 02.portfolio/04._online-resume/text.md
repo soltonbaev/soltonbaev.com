@@ -12,6 +12,6 @@ Crafted a personal online-resume as part of a hackathon
 - HTML & CSS animations
 - Bootstrap
 
-<a href="https://soltonbaev.com/projects/online-resume"><button>Launch App</button></a>
+<a href="https://soltonbaev.com/projects/online-resume"><button class="btn">Launch App</button></a>
 
 [Github Repo](https://github.com/soltonbaev/my-online-resume)
