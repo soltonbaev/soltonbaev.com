@@ -14,4 +14,4 @@ Todo app with multiple todos:
 
 [github repo](https://github.com/soltonbaev/native-js-todo-app)
 
-<button class="btn">Launch App<button>
+<button>Launch App<button>
