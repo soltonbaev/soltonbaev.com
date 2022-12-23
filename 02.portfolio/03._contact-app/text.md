@@ -13,6 +13,6 @@ Built this little project as part of a coding bootcamp training:
 - REST API with JSON server
 - HTML & CSS
 
-#### [Launch App](https://soltonbaev.com/projects/contacts-web-app)
+<a href="https://soltonbaev.com/projects/contacts-web-app)"><button class="btn">Launch App</button></a>
 
 [Github Repo](https://github.com/soltonbaev/contacts-web-app)
