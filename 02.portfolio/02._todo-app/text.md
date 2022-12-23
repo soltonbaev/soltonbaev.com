@@ -12,6 +12,6 @@ Todo app with multiple todos:
 - Browser Local Storage
 - HTML & CSSs
 
-<a href="https://soltonbaev.com/projects/native-js-todo-app"><button class="btn">Launch App<button></a>
-
 [github repo](https://github.com/soltonbaev/native-js-todo-app)
+
+<a href="https://soltonbaev.com/projects/native-js-todo-app"><button class="btn">Launch App<button></a>
