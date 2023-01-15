@@ -4,7 +4,7 @@ menu: Easy Content
 image_align: left
 ---
 
-## Native JS Contact app
+## Contact Book Web App
 
 Built this little project as part of a coding bootcamp training:
 
@@ -13,7 +13,7 @@ Built this little project as part of a coding bootcamp training:
 -  REST API with JSON server
 -  HTML & CSS
 
--  Built a React verion with hooks, routes and axios
+-  Built a React version with hooks, routes and axios
 
 <a href="https://soltonbaev.com/projects/contacts-web-app"><button class="btn">Launch Native JS version</button></a>
 
