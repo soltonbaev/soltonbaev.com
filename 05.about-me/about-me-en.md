@@ -5,9 +5,7 @@ menu: ABOUT ME
 
 # About me
 
-Hello, my name is Ibraim Soltonbaev. I’m a tech guru / freelancer / IT specialist. This is my personal web-site where I post stuff about technology, music and freelancing.
-
-If you need a help with your web-site or IT related stuff, don’t hesitate to contact me at contact@soltonbaev.com
+Front end developer, working with HTML & CSS, Javascript, React, Bootstrap and more.
 
 For more information about my expertise check out [my profile at LinkedIn](http://linkedin.com/in/soltonbaev)
 
