@@ -1,6 +1,6 @@
 ---
 title: soltonbaev.com - Markets
-menu:
+menu: MARKETS
 content:
 ---
 

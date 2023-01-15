@@ -1,6 +1,6 @@
 ---
 title: soltonbaev.com - Music
-menu:
+menu: MUSIC
 content:
    items: '@self.children'
 ---
