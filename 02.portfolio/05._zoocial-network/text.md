@@ -4,7 +4,7 @@ menu: Easy Content
 image_align: left
 ---
 
-## Online Resume
+## Social Network App "Zoocial"
 
 A collaborative hackathon project, a social network app Zoocial
 
